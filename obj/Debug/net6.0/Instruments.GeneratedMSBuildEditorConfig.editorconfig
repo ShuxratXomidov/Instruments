@@ -8,89 +8,89 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Instruments
 build_property.RootNamespace = Instruments
-build_property.ProjectDir = C:\Users\user\Desktop\Instruments\
+build_property.ProjectDir = c:\Users\user\Desktop\Instruments\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Instruments
+build_property.MSBuildProjectDirectory = c:\Users\user\Desktop\Instruments
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Desktop/Instruments/Views/Abb/Flow.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Abb/Flow.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJiXEZsb3cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Abb/Index.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Abb/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJiXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Abb/Level.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Abb/Level.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJiXExldmVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Abb/Pressure.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Abb/Pressure.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJiXFByZXNzdXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Abb/Temperature.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Abb/Temperature.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJiXFRlbXBlcmF0dXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Auth/Login.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Auth/Register.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Home/Index.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Home/Privacy.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Instrument/Index.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Instrument/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Shared/Auth_Layout.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Shared/Auth_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEF1dGhfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Shared/Error.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Shared/Instrument_Layout.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Shared/Instrument_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluc3RydW1lbnRfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/User/CreateUser.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/User/CreateUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGVVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/User/Edit.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/User/Index.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/_ViewImports.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/_ViewStart.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Instruments/Views/Shared/_Layout.cshtml]
+[c:/Users/user/Desktop/Instruments/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-thml0r17ev
